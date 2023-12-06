@@ -28,7 +28,7 @@ namespace MvcMusicShop.Controllers
         }
 
         // GET: Musics/Details/5
-        public async Task<IActionResult> Details(string id)
+        public async Task<IActionResult> Details(int? id)
         {
             if (id == null || _context.Music == null)
             {
@@ -36,7 +36,7 @@ namespace MvcMusicShop.Controllers
             }
 
             var music = await _context.Music
-                .FirstOrDefaultAsync(m => m.Genre == id);
+                .FirstOrDefaultAsync(m => m.Id == id);
             if (music == null)
             {
                 return NotFound();
@@ -56,7 +56,7 @@ namespace MvcMusicShop.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Genre,Title")] Music music)
+        public async Task<IActionResult> Create([Bind("Id,Title,Artist,Genre,Price")] Music music)
         {
             if (ModelState.IsValid)
             {
@@ -68,7 +68,7 @@ namespace MvcMusicShop.Controllers
         }
 
         // GET: Musics/Edit/5
-        public async Task<IActionResult> Edit(string id)
+        public async Task<IActionResult> Edit(int? id)
         {
             if (id == null || _context.Music == null)
             {
@@ -88,9 +88,9 @@ namespace MvcMusicShop.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(string id, [Bind("Genre,Title")] Music music)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Artist,Genre,Price")] Music music)
         {
-            if (id != music.Genre)
+            if (id != music.Id)
             {
                 return NotFound();
             }
@@ -104,7 +104,7 @@ namespace MvcMusicShop.Controllers
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!MusicExists(music.Genre))
+                    if (!MusicExists(music.Id))
                     {
                         return NotFound();
                     }
@@ -119,7 +119,7 @@ namespace MvcMusicShop.Controllers
         }
 
         // GET: Musics/Delete/5
-        public async Task<IActionResult> Delete(string id)
+        public async Task<IActionResult> Delete(int? id)
         {
             if (id == null || _context.Music == null)
             {
@@ -127,7 +127,7 @@ namespace MvcMusicShop.Controllers
             }
 
             var music = await _context.Music
-                .FirstOrDefaultAsync(m => m.Genre == id);
+                .FirstOrDefaultAsync(m => m.Id == id);
             if (music == null)
             {
                 return NotFound();
@@ -139,7 +139,7 @@ namespace MvcMusicShop.Controllers
         // POST: Musics/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(string id)
+        public async Task<IActionResult> DeleteConfirmed(int id)
         {
             if (_context.Music == null)
             {
@@ -155,9 +155,9 @@ namespace MvcMusicShop.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        private bool MusicExists(string id)
+        private bool MusicExists(int id)
         {
-          return (_context.Music?.Any(e => e.Genre == id)).GetValueOrDefault();
+          return (_context.Music?.Any(e => e.Id == id)).GetValueOrDefault();
         }
     }
 }
