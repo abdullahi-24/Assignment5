@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "J+95FoDyMwMYn8cTyTdFcUh2LG3pvjJa5haaER2up4k=",
-=======
-  "Hash": "7yzIea5nAe5Oos9GH0X1At6QcHgzB5of2eaK5qxjjtg=",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+  "Hash": "XKndkQnLAuTaJgq1nUJZrq2VVADdojHYvGmTkwsWKDQ=",
   "Source": "MvcMusicShop",
   "BasePath": "_content/MvcMusicShop",
   "Mode": "Default",
@@ -14,102 +10,56 @@
     {
       "Name": "MvcMusicShop\\wwwroot",
       "Source": "MvcMusicShop",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MvcMusicShop.styles.css",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MvcMusicShop.styles.css",
       "SourceId": "MvcMusicShop",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MvcMusicShop.styles.css",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "MvcMusicShop.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MvcMusicShop.styles.css"
+      "OriginalItemSpec": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MvcMusicShop.styles.css"
     },
     {
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MvcMusicShop.bundle.scp.css",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MvcMusicShop.bundle.scp.css",
       "SourceId": "MvcMusicShop",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
-=======
-      "OriginalItemSpec": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MvcMusicShop.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MvcMusicShop.bundle.scp.css",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "MvcMusicShop.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MvcMusicShop.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MvcMusicShop.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\css\\site.css",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "OriginalItemSpec": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MvcMusicShop.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\css\\site.css",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -118,27 +68,15 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\favicon.ico",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\favicon.ico",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -147,27 +85,15 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\js\\site.js",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\js\\site.js",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -176,27 +102,15 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -205,27 +119,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -234,27 +136,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -263,27 +153,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -292,27 +170,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -321,27 +187,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -350,27 +204,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -379,27 +221,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -408,27 +238,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -437,27 +255,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -466,27 +272,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -495,27 +289,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -524,27 +306,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -553,27 +323,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -582,27 +340,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -611,27 +357,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -640,27 +374,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -669,27 +391,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -698,27 +408,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -727,27 +425,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -756,27 +442,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -785,27 +459,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -814,27 +476,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -843,27 +493,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -872,27 +510,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -901,27 +527,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -930,27 +544,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -959,27 +561,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -988,27 +578,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1017,27 +595,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1046,27 +612,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1075,27 +629,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1104,27 +646,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1133,27 +663,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1162,27 +680,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1191,27 +697,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1220,27 +714,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1249,27 +731,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1278,27 +748,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1307,27 +765,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1336,27 +782,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1365,27 +799,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1394,27 +816,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1423,27 +833,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1452,27 +850,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1481,27 +867,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1510,27 +884,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1539,27 +901,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1568,27 +918,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1597,27 +935,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1626,27 +952,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1655,27 +969,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1684,27 +986,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1713,27 +1003,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1742,27 +1020,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1771,27 +1037,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1800,27 +1054,15 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "MvcMusicShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdul\\OneDrive\\Documents\\Assignment5\\MvcMusicShop\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "MvcMusicShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\colin\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
       "BasePath": "_content/MvcMusicShop",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-<<<<<<< HEAD
-=======
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",

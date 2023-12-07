@@ -7,11 +7,6 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "MvcMusicShop/1.0.0": {
-<<<<<<< HEAD
-        "runtime": {
-          "MvcMusicShop.dll": {}
-        }
-=======
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.12",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.12",
@@ -2497,7 +2492,6 @@
           "System.Threading": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0"
         }
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
       }
     }
   },
@@ -2506,8 +2500,6 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
-<<<<<<< HEAD
-=======
     },
     "Azure.Core/1.25.0": {
       "type": "package",
@@ -4062,7 +4054,6 @@
       "sha512": "sha512-5zJ0XDxAIg8iy+t4aMnQAu0MqVbqyvfoUVl1yDV61xdo3Vth45oA2FoY4pPkxYAH5f8ixpmTqXeEIya95x0aCQ==",
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
->>>>>>> fb82dd1e8edef1d9175a8a39c60bd62c7ef27be4
     }
   }
 }
