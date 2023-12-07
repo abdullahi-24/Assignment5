@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MvcMusicShop"
+    "\\MvcMusicShop",
+    "\\MvcMusicShop\\Views",
+    "\\MvcMusicShop\\Views\\BrowseMusic"
   ],
   "SelectedNode": "\\MvcMusicShop\\MvcMusicShop.sln",
   "PreviewInSolutionExplorer": false

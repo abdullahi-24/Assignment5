@@ -20,11 +20,42 @@ namespace MvcMusicShop.Controllers
         }
 
         // GET: Musics
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string MusicGenre, string MusicArtist)
         {
-              return _context.Music != null ? 
-                          View(await _context.Music.ToListAsync()) :
-                          Problem("Entity set 'MvcMusicShopContext.Music'  is null.");
+            if(_context.Music == null)
+            {
+                return Problem("Entity set 'MvcMusicShopContext.Music'  is null.");
+            }
+
+            IQueryable<string> genreQuery = from m in _context.Music
+                                            orderby m.Genre
+                                            select m.Genre;
+
+            IQueryable<string> artistQuery = from m in _context.Music
+                                             orderby m.Artist
+                                             select m.Artist;
+
+            var musics = from m in _context.Music
+                        select m;
+
+            if (!string.IsNullOrEmpty(MusicGenre))
+            {
+                musics = musics.Where(x=> x.Genre == MusicGenre);
+            }
+
+            if (!string.IsNullOrEmpty(MusicArtist))
+            {
+                musics = musics.Where(x=>x.Artist == MusicArtist);
+            }
+
+            var musicVM = new MusicViewModel
+            {
+                Genres = new SelectList(await genreQuery.Distinct().ToListAsync()),
+                Artists = new SelectList(await artistQuery.Distinct().ToListAsync()),
+                Musics = await musics.ToListAsync()
+            };
+
+            return View(musicVM);
         }
 
         // GET: Musics/Details/5
