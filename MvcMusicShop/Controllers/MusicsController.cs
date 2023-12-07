@@ -20,23 +20,54 @@ namespace MvcMusicShop.Controllers
         }
 
         // GET: Musics
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string MusicGenre, string MusicArtist)
         {
-              return _context.Music != null ? 
-                          View(await _context.Music.ToListAsync()) :
-                          Problem("Entity set 'MvcMusicShopContext.Music'  is null.");
+            if (_context.Music == null)
+            {
+                return Problem("Entity set 'MvcMusicShopContext.Music'  is null.");
+            }
+
+            IQueryable<string> genreQuery = from m in _context.Music
+                                            orderby m.Genre
+                                            select m.Genre;
+
+            IQueryable<string> artistQuery = from m in _context.Music
+                                             orderby m.Artist
+                                             select m.Artist;
+
+            var musics = from m in _context.Music
+                         select m;
+
+            if (!string.IsNullOrEmpty(MusicGenre))
+            {
+                musics = musics.Where(x => x.Genre == MusicGenre);
+            }
+
+            if (!string.IsNullOrEmpty(MusicArtist))
+            {
+                musics = musics.Where(x => x.Artist == MusicArtist);
+            }
+
+            var musicVM = new MusicViewModel
+            {
+                Genres = new SelectList(await genreQuery.Distinct().ToListAsync()),
+                Artists = new SelectList(await artistQuery.Distinct().ToListAsync()),
+                Musics = await musics.ToListAsync()
+            };
+
+            return View(musicVM);
         }
 
         // GET: Musics/Details/5
-        public async Task<IActionResult> Details(string id)
+        public async Task<IActionResult> Details(int? id)
         {
-            if (id == null || _context.Music == null)
+            if (id == null)
             {
                 return NotFound();
             }
 
             var music = await _context.Music
-                .FirstOrDefaultAsync(m => m.Genre == id);
+                .FirstOrDefaultAsync(m => m.Id == id);
             if (music == null)
             {
                 return NotFound();
@@ -44,6 +75,7 @@ namespace MvcMusicShop.Controllers
 
             return View(music);
         }
+
 
         // GET: Musics/Create
         public IActionResult Create()
@@ -56,7 +88,7 @@ namespace MvcMusicShop.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Genre,Title")] Music music)
+        public async Task<IActionResult> Create([Bind("Id,Genre,Title,Artist,ReleaseDate,Price")] Music music)
         {
             if (ModelState.IsValid)
             {
@@ -68,7 +100,7 @@ namespace MvcMusicShop.Controllers
         }
 
         // GET: Musics/Edit/5
-        public async Task<IActionResult> Edit(string id)
+        public async Task<IActionResult> Edit(int? id)
         {
             if (id == null || _context.Music == null)
             {
@@ -88,9 +120,9 @@ namespace MvcMusicShop.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(string id, [Bind("Genre,Title")] Music music)
+        public async Task<IActionResult> Edit(int? id, [Bind("Id,Genre,Title,Artist,ReleaseDate,Price")] Music music)
         {
-            if (id != music.Genre)
+            if (id != music.Id)
             {
                 return NotFound();
             }
@@ -104,7 +136,7 @@ namespace MvcMusicShop.Controllers
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!MusicExists(music.Genre))
+                    if (!MusicExists(music.Id))
                     {
                         return NotFound();
                     }
@@ -119,7 +151,7 @@ namespace MvcMusicShop.Controllers
         }
 
         // GET: Musics/Delete/5
-        public async Task<IActionResult> Delete(string id)
+        public async Task<IActionResult> Delete(int? id)
         {
             if (id == null || _context.Music == null)
             {
@@ -127,7 +159,7 @@ namespace MvcMusicShop.Controllers
             }
 
             var music = await _context.Music
-                .FirstOrDefaultAsync(m => m.Genre == id);
+                .FirstOrDefaultAsync(m => m.Id == id);
             if (music == null)
             {
                 return NotFound();
@@ -139,7 +171,7 @@ namespace MvcMusicShop.Controllers
         // POST: Musics/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(string id)
+        public async Task<IActionResult> DeleteConfirmed(int id)
         {
             if (_context.Music == null)
             {
@@ -155,9 +187,9 @@ namespace MvcMusicShop.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        private bool MusicExists(string id)
+        private bool MusicExists(int id)
         {
-          return (_context.Music?.Any(e => e.Genre == id)).GetValueOrDefault();
+          return (_context.Music?.Any(e => e.Id == id)).GetValueOrDefault();
         }
     }
 }
