@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XKndkQnLAuTaJgq1nUJZrq2VVADdojHYvGmTkwsWKDQ=",
+  "Hash": "ixCrw27eeAmeBYnAv1+BZIVLqEyd4htGl4R4ZDDtSW0=",
   "Source": "MvcMusicShop",
   "BasePath": "_content/MvcMusicShop",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\img\\music-notes.png",
+      "SourceId": "MvcMusicShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\",
+      "BasePath": "_content/MvcMusicShop",
+      "RelativePath": "img/music-notes.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\music-notes.png"
     },
     {
       "Identity": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\js\\site.js",

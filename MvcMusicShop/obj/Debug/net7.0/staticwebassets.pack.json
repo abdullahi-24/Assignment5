@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\img\\music-notes.png",
+      "PackagePath": "staticwebassets\\img\\music-notes.png"
+    },
+    {
       "Id": "C:\\Users\\abdul\\source\\repos\\Assignment5\\MvcMusicShop\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
